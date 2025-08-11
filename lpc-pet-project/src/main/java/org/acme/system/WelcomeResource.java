@@ -19,4 +19,6 @@ public class WelcomeResource {
         return templates.welcome();
     }
 
+
+
 }
